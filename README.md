@@ -1,1 +1,1 @@
-In this project, I attempted to apply reinforcement learning.While I acknowledge that Q-learning may not be the optimal model, I've chosen it as the foundation for my exploration into reinforcement learning within the context of my current research project.
+In this project, I attempted to apply reinforcement learning. While I acknowledge that Q-learning may not be the optimal model, I've chosen it as the foundation for my exploration into reinforcement learning within the context of my current research project.
